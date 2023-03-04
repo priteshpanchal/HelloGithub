@@ -9,7 +9,7 @@
 //command EXAMPLE adcInit
 //                adc 1 | 0 "1 | 0 to select the channel."
 
-
+//This is the change i have done in the code file.
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
